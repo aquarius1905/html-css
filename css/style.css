@@ -1,5 +1,9 @@
-.gradation__bg {
-  width: 100%;
-  height: 700px;
-  background: radial-gradient(#ff34ff, #8646ff);
+.paragraph {
+  font-size: 14px;
+  color: #333;
+}
+
+.list-item {
+  font-weight: bold;
+  color: #333;
 }
