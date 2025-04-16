@@ -1,0 +1,5 @@
+.gradation__bg {
+  width: 100%;
+  height: 700px;
+  background: radial-gradient(#ff34ff, #8646ff);
+}
